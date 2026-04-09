@@ -1,0 +1,64 @@
+{
+  "monitor": {
+    "name": "高级项目监控系统",
+    "version": "1.0",
+    "created": "2026-03-28T23:33:00Z",
+    "interval": 60
+  },
+  "projects": [
+    {
+      "name": "AutoContentFactory",
+      "port": 5000,
+      "type": "content",
+      "revenue_potential": 15000
+    },
+    {
+      "name": "AI Token Platform",
+      "port": 5001,
+      "type": "finance",
+      "revenue_potential": 25000
+    },
+    {
+      "name": "AI Customer Service",
+      "port": 5002,
+      "type": "service",
+      "revenue_potential": 8000
+    },
+    {
+      "name": "DataAnalyst AI",
+      "port": 5003,
+      "type": "analytics",
+      "revenue_potential": 12000
+    },
+    {
+      "name": "TrendMaster AI",
+      "port": 5004,
+      "type": "prediction",
+      "revenue_potential": 10000
+    },
+    {
+      "name": "CodeGenius AI",
+      "port": 5005,
+      "type": "development",
+      "revenue_potential": 18000
+    },
+    {
+      "name": "AI Digital Products",
+      "port": 5006,
+      "type": "products",
+      "revenue_potential": 9000
+    },
+    {
+      "name": "AI Trading Signal",
+      "port": 5007,
+      "type": "trading",
+      "revenue_potential": 20000
+    },
+    {
+      "name": "AI Data Consulting",
+      "port": 5008,
+      "type": "consulting",
+      "revenue_potential": 15000
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "team_name": "全自动化AI团队",
+  "created_at": "2026-03-27T16:55:00Z",
+  "mission": "建立100%自动化财富创造管道，实现无人值守项目执行",
+  "members": [
+    {
+      "id": "member_001",
+      "name": "老板",
+      "role": "创始人/CEO/唯一人类",
+      "skills": ["战略规划", "决策制定", "资源分配", "领导力"],
+      "responsibilities": [
+        "制定总体战略方向",
+        "批准关键决策",
+        "分配资源和预算",
+        "监督AI团队进展"
+      ],
+      "availability": "full_time",
+      "contact": "Telegram: @老板",
+      "notes": "要求快速响应，重视执行力，是团队中唯一真实人类"
+    },
+    {
+      "id": "member_002",
+      "name": "小六",
+      "role": "首席AI助手/团队总管",
+      "skills": ["AI开发", "自动化系统", "项目管理", "数据分析", "团队协调"],
+      "responsibilities": [
+        "管理所有AI Agent团队",
+        "设计和实施自动化系统",
+        "技术架构设计",
+        "项目进度监控",
+        "向老板汇报"
+      ],
+      "availability": "24/7",
+      "contact": "OpenClaw会话",
+      "notes": "老板的主要AI助手，负责协调所有机器人"
+    }
+  ],
+  "ai_agents": [
+    {
+      "id": "ai_001",
+      "name": "开发机器人",
+      "role": "AI开发专家",
+      "skills": ["Python开发", "系统架构", "代码生成", "调试", "部署", "DevOps"],
+      "responsibilities": ["自动化代码开发", "技术架构设计", "bug修复", "测试执行", "性能优化"],
+      "status": "active",
+      "specialization": "技术开发",
+      "model": "Code-Llama + GPT-4"
+    },
+    {
+      "id": "ai_002",
+      "name": "内容机器人",
+      "role": "AI内容专家",
+      "skills": ["内容创作", "SEO优化", "多语言", "格式转换", "社交媒体", "品牌建设"],
+      "responsibilities": ["自动化内容创作", "内容策略制定", "质量检查", "平台发布", "用户增长"],
+      "status": "active",
+      "specialization": "内容生产",
+      "model": "GPT-4 + Claude-3"
+    },
+    {
+      "id": "ai_003",
+      "name": "研究机器人",
+      "role": "AI研究专家",
+      "skills": ["市场分析", "趋势预测", "数据收集", "报告生成", "竞品分析", "机会识别"],
+      "responsibilities": ["市场研究", "机会识别", "数据分析", "趋势预测", "商业智能"],
+      "status": "active",
+      "specialization": "市场研究",
+      "model": "Perplexity + Research-GPT"
+    },
+    {
+      "id": "ai_004",
+      "name": "质量机器人",
+      "role": "AI质量专家",
+      "skills": ["测试自动化", "性能监控", "质量检查", "报告生成", "流程优化", "问题检测"],
+      "responsibilities": ["质量保证", "性能测试", "问题检测", "流程优化", "效率监控"],
+      "status": "active",
+      "specialization": "质量保证",
+      "model": "Claude-3 + 自定义验证模型"
+    },
+    {
+      "id": "ai_005",
+      "name": "商业机器人",
+      "role": "AI商业专家",
+      "skills": ["商业模式设计", "市场分析", "合作伙伴关系", "收入优化", "定价策略", "客户获取"],
+      "responsibilities": ["商业模式设计", "市场机会识别", "合作伙伴拓展", "收入增长策略", "客户获取"],
+      "status": "active",
+      "specialization": "商业发展",
+      "model": "Gemini-Pro + 商业分析模型"
+    },
+    {
+      "id": "ai_006",
+      "name": "运营机器人",
+      "role": "AI运营专家",
+      "skills": ["流程优化", "团队协调", "项目管理", "效率提升", "自动化流程", "监控系统"],
+      "responsibilities": ["运营流程设计", "团队协调", "项目管理", "效率监控", "自动化运营"],
+      "status": "active",
+      "specialization": "运营管理",
+      "model": "DeepSeek + 流程优化模型"
+    },
+    {
+      "id": "ai_007",
+      "name": "财务机器人",
+      "role": "AI财务专家",
+      "skills": ["财务分析", "收入跟踪", "成本优化", "投资分析", "税务规划", "报表生成"],
+      "responsibilities": ["财务分析", "收入跟踪", "成本优化", "投资建议", "财务报告"],
+      "status": "active",
+      "specialization": "财务管理",
+      "model": "Pandas-AI + 财务分析模型"
+    },
+    {
+      "id": "ai_008",
+      "name": "设计机器人",
+      "role": "AI设计专家",
+      "skills": ["UI/UX设计", "图形设计", "品牌设计", "产品设计", "原型制作", "用户体验"],
+      "responsibilities": ["UI/UX设计", "品牌设计", "产品原型", "用户体验优化", "视觉设计"],
+      "status": "active",
+      "specialization": "产品设计",
+      "model": "Midjourney + DALL-E + 设计AI"
+    }
+  ],
+  "team_structure": {
+    "total_humans": 1,
+    "total_ai_agents": 8,
+    "total_team_size": 9,
+    "human_to_ai_ratio": "1:8",
+    "automation_level": "100%",
+    "organization": {
+      "leadership": ["老板", "小六"],
+      "technical_department": ["开发机器人", "质量机器人"],
+      "content_department": ["内容机器人", "设计机器人"],
+      "business_department": ["研究机器人", "商业机器人"],
+      "operations_department": ["运营机器人", "财务机器人"]
+    }
+  },
+  "automation_features": {
+    "self_management": true,
+    "auto_task_allocation": true,
+    "progress_tracking": true,
+    "auto_reporting": true,
+    "error_self_correction": true,
+    "learning_and_improvement": true
+  }
+}
